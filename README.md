@@ -54,12 +54,12 @@ If the array format is not correct, a `ValueError` error will be raised.
 
 ### Executing the Unit Testing
 
-* Inside `test_findmin.py` a series of tests is ran (on both the input array type and the output).
+* Inside `test_findmin.py` a series of tests is executed.
 Run the following command line to test `findmin` package.
 
 ``` 
 cd tests
-python3 -m unittest discover
+python -m unittest discover
 ```
 
 ## Version History

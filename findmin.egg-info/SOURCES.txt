@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+findmin/__init__.py
+findmin.egg-info/PKG-INFO
+findmin.egg-info/SOURCES.txt
+findmin.egg-info/dependency_links.txt
+findmin.egg-info/top_level.txt
+tests/__init__.py
+tests/test_findmin.py

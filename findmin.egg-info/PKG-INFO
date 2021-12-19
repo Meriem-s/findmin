@@ -1,0 +1,34 @@
+Metadata-Version: 1.1
+Name: findmin
+Version: 0.0.1
+Summary: a basic implementation for findmin function
+Home-page: UNKNOWN
+Author: Meriem Said
+Author-email: saidmeriem96@gmail.com
+License: MIT
+Description: """"
+        This module requested by micropsi does the following:
+        
+        Given an array of elements that provide a less than operator, 
+        find the minimum using as few comparisons as possible. 
+        
+        The array shall be given such that the first few elements are strictly monotonically decreasing, 
+        the remaining elements are strictly monotonically increasing. 
+        The less than operator be defined as the operator that works on such vectors where a < b if min(a,b) == a.
+        """
+        
+        Change Log
+        
+        
+        ========
+        
+        0.0.1 (20/12/2020)
+        
+        
+Keywords: findmin
+Platform: UNKNOWN
+Classifier: Development Status :: 1-Testing Stable
+Classifier: Intended Audience :: Micropsi Team
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: MIT License
+Classifier: Programming Language :: Python :: 3

@@ -18,7 +18,7 @@ setup(
 name='findmin',
 version='0.0.1',
 description='a basic implementation for findmin function',
-long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+long_description='Find the minimum using as few comparisons as possible. The array shall be given such that the first few elements are strictly monotonically decreasing, the remaining elements are strictly monotonically increasing. The less than operator be defined as the operator that works on such vectors where a < b if min(a,b) == a.',
 url='',
 author='Meriem Said',
 author_email='saidmeriem96@gmail.com',

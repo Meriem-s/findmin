@@ -1,7 +1,6 @@
-CHANGELOG.txt
-LICENCE.txt
+LICENCE.md
 MANIFEST.in
-README.txt
+README.md
 setup.py
 findmin/__init__.py
 findmin.egg-info/PKG-INFO

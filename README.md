@@ -30,7 +30,7 @@ Once the project is cloned from the repository, your project folder should look 
 ### Installing the package using pip
 
 * Go to `dist` folder 
-* To install the package, run the following line:
+* Run the following line to install the package:
 
 ```
 pip install findmin-0.0.1.tar.gz
